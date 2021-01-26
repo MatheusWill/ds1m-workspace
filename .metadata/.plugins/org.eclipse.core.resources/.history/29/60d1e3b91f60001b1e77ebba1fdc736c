@@ -1,0 +1,5 @@
+package br.edu.empresa.model;
+
+public class Retangulo {
+
+}
